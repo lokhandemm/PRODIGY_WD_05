@@ -1,5 +1,5 @@
 # Weather App 🌦️    
-  
+   
 This is a simple Weather App that allows users to check the weather conditions of any location by entering the city name. The app fetches real-time weather data and displays the temperature and weather conditions.
   
 ---
